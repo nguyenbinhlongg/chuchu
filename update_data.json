@@ -1,0 +1,515 @@
+[
+  {
+    "po": 0,
+    "stockCH": 32,
+    "stockDC": 360,
+    "proposedPO": 0,
+    "price": 13400,
+    "dailySellout": 5,
+    "id": "SKU_01"
+  },
+  {
+    "po": 0,
+    "price": 148000,
+    "dailySellout": 3,
+    "stockCH": 7,
+    "stockDC": 147,
+    "id": "SKU_02",
+    "proposedPO": 0
+  },
+  {
+    "po": 0,
+    "dailySellout": 6,
+    "proposedPO": 0,
+    "id": "SKU_03",
+    "price": 58000,
+    "stockCH": 5,
+    "stockDC": 140
+  },
+  {
+    "proposedPO": 0,
+    "id": "SKU_04",
+    "dailySellout": 21,
+    "price": 4500,
+    "stockDC": 330,
+    "stockCH": 65,
+    "po": 0
+  },
+  {
+    "proposedPO": 0,
+    "id": "SKU_05",
+    "dailySellout": 39,
+    "stockDC": 1200,
+    "price": 4900,
+    "stockCH": 96,
+    "po": 60
+  },
+  {
+    "price": 10200,
+    "id": "SKU_08",
+    "stockCH": 106,
+    "stockDC": 1440,
+    "proposedPO": 0,
+    "po": 0,
+    "dailySellout": 25
+  },
+  {
+    "id": "SKU_10",
+    "price": 9500,
+    "stockDC": 480,
+    "stockCH": 21,
+    "po": 0,
+    "proposedPO": 0,
+    "dailySellout": 6
+  },
+  {
+    "id": "SKU_11",
+    "stockCH": 96,
+    "stockDC": 450,
+    "dailySellout": 21,
+    "price": 9500,
+    "proposedPO": 0,
+    "po": 0
+  },
+  {
+    "po": 0,
+    "proposedPO": 0,
+    "dailySellout": 15,
+    "stockCH": 49,
+    "stockDC": 310,
+    "price": 10200,
+    "id": "SKU_17"
+  },
+  {
+    "dailySellout": 19,
+    "stockDC": 1500,
+    "stockCH": 137,
+    "id": "SKU_19",
+    "price": 9500,
+    "po": 0,
+    "proposedPO": 0
+  },
+  {
+    "proposedPO": 0,
+    "po": 0,
+    "dailySellout": 6,
+    "id": "SKU_18",
+    "stockDC": 0,
+    "stockCH": 19,
+    "price": 14000
+  },
+  {
+    "stockDC": 0,
+    "stockCH": 0,
+    "id": "SKU_55",
+    "price": 15300,
+    "proposedPO": 0,
+    "po": 0,
+    "dailySellout": 0
+  },
+  {
+    "price": 19700,
+    "po": 0,
+    "id": "SKU_07",
+    "dailySellout": 9,
+    "stockCH": 19,
+    "stockDC": 154,
+    "proposedPO": 0
+  },
+  {
+    "po": 0,
+    "stockCH": 23,
+    "proposedPO": 0,
+    "stockDC": 1450,
+    "dailySellout": 7,
+    "id": "SKU_14",
+    "price": 19700
+  },
+  {
+    "id": "SKU_15",
+    "po": 0,
+    "dailySellout": 6,
+    "proposedPO": 0,
+    "price": 12700,
+    "stockCH": 16,
+    "stockDC": 960
+  },
+  {
+    "stockDC": 1321,
+    "stockCH": 18,
+    "proposedPO": 0,
+    "po": 0,
+    "dailySellout": 7,
+    "id": "SKU_16",
+    "price": 19700
+  },
+  {
+    "proposedPO": 0,
+    "stockDC": 390,
+    "stockCH": 16,
+    "price": 19000,
+    "id": "SKU_09",
+    "po": 0,
+    "dailySellout": 8
+  },
+  {
+    "proposedPO": 0,
+    "stockCH": 13,
+    "stockDC": 220,
+    "dailySellout": 9,
+    "id": "SKU_06",
+    "price": 1900,
+    "po": 0
+  },
+  {
+    "stockCH": 16,
+    "stockDC": 715,
+    "id": "SKU_12",
+    "price": 15500,
+    "proposedPO": 0,
+    "po": 0,
+    "dailySellout": 8
+  },
+  {
+    "price": 15500,
+    "stockDC": 390,
+    "stockCH": 6,
+    "po": 18,
+    "id": "SKU_13",
+    "proposedPO": 0,
+    "dailySellout": 8
+  },
+  {
+    "proposedPO": 0,
+    "po": 0,
+    "id": "SKU_20",
+    "stockDC": 580,
+    "stockCH": 35,
+    "price": 15500,
+    "dailySellout": 6
+  },
+  {
+    "dailySellout": 1,
+    "id": "SKU_21",
+    "price": 119000,
+    "proposedPO": 0,
+    "po": 0,
+    "stockDC": 365,
+    "stockCH": 3
+  },
+  {
+    "price": 68500,
+    "proposedPO": 0,
+    "stockCH": 9,
+    "id": "SKU_22",
+    "stockDC": 154,
+    "po": 0,
+    "dailySellout": 3
+  },
+  {
+    "id": "SKU_23",
+    "stockCH": 8,
+    "stockDC": 120,
+    "dailySellout": 2,
+    "proposedPO": 0,
+    "price": 67500,
+    "po": 0
+  },
+  {
+    "id": "SKU_24",
+    "stockCH": 100,
+    "stockDC": 4320,
+    "dailySellout": 16,
+    "price": 29000,
+    "proposedPO": 0,
+    "po": 0
+  },
+  {
+    "price": 12300,
+    "po": 0,
+    "id": "SKU_25",
+    "dailySellout": 2,
+    "proposedPO": 0,
+    "stockDC": 460,
+    "stockCH": 36
+  },
+  {
+    "po": 24,
+    "dailySellout": 3,
+    "stockDC": 750,
+    "stockCH": 6,
+    "proposedPO": 0,
+    "id": "SKU_26",
+    "price": 12300
+  },
+  {
+    "dailySellout": 0,
+    "id": "SKU_27",
+    "proposedPO": 0,
+    "price": 5600,
+    "po": 0,
+    "stockCH": 0,
+    "stockDC": 0
+  },
+  {
+    "po": 0,
+    "proposedPO": 0,
+    "dailySellout": 3,
+    "stockDC": 760,
+    "stockCH": 19,
+    "id": "SKU_56",
+    "price": 12100
+  },
+  {
+    "po": 0,
+    "stockCH": 15,
+    "stockDC": 240,
+    "id": "SKU_57",
+    "dailySellout": 2,
+    "price": 13700,
+    "proposedPO": 0
+  },
+  {
+    "stockCH": 16,
+    "stockDC": 580,
+    "id": "SKU_28",
+    "po": 0,
+    "proposedPO": 0,
+    "dailySellout": 4,
+    "price": 19000
+  },
+  {
+    "stockDC": 1765,
+    "stockCH": 19,
+    "dailySellout": 6,
+    "price": 20500,
+    "proposedPO": 0,
+    "id": "SKU_29",
+    "po": 24
+  },
+  {
+    "po": 0,
+    "dailySellout": 4,
+    "stockCH": 18,
+    "stockDC": 340,
+    "proposedPO": 0,
+    "price": 20500,
+    "id": "SKU_30"
+  },
+  {
+    "po": 8,
+    "proposedPO": 0,
+    "stockDC": 650,
+    "stockCH": 14,
+    "dailySellout": 6,
+    "id": "SKU_33",
+    "price": 33000
+  },
+  {
+    "dailySellout": 0,
+    "po": 0,
+    "id": "SKU_38",
+    "price": 59000,
+    "proposedPO": 0,
+    "stockDC": 0,
+    "stockCH": 0
+  },
+  {
+    "po": 0,
+    "dailySellout": 8,
+    "stockDC": 840,
+    "stockCH": 24,
+    "proposedPO": 0,
+    "id": "SKU_50",
+    "price": 35000
+  },
+  {
+    "stockCH": 4,
+    "stockDC": 150,
+    "dailySellout": 2,
+    "price": 58000,
+    "id": "SKU_36",
+    "po": 2,
+    "proposedPO": 0
+  },
+  {
+    "price": 58000,
+    "id": "SKU_39",
+    "dailySellout": 4,
+    "proposedPO": 0,
+    "po": 0,
+    "stockDC": 1540,
+    "stockCH": 15
+  },
+  {
+    "proposedPO": 0,
+    "dailySellout": 6,
+    "po": 0,
+    "price": 27500,
+    "id": "SKU_43",
+    "stockCH": 19,
+    "stockDC": 420
+  },
+  {
+    "dailySellout": 3,
+    "po": 0,
+    "price": 59000,
+    "id": "SKU_44",
+    "proposedPO": 0,
+    "stockDC": 680,
+    "stockCH": 10
+  },
+  {
+    "dailySellout": 4,
+    "po": 0,
+    "proposedPO": 0,
+    "price": 71000,
+    "id": "SKU_45",
+    "stockCH": 42,
+    "stockDC": 1260
+  },
+  {
+    "id": "SKU_46",
+    "proposedPO": 0,
+    "price": 38500,
+    "stockCH": 16,
+    "stockDC": 1580,
+    "dailySellout": 3,
+    "po": 0
+  },
+  {
+    "id": "SKU_47",
+    "proposedPO": 0,
+    "po": 0,
+    "stockCH": 24,
+    "stockDC": 70,
+    "dailySellout": 5,
+    "price": 66000
+  },
+  {
+    "price": 30000,
+    "id": "SKU_48",
+    "proposedPO": 0,
+    "dailySellout": 12,
+    "stockCH": 96,
+    "stockDC": 750,
+    "po": 0
+  },
+  {
+    "stockCH": 5,
+    "stockDC": 0,
+    "po": 0,
+    "price": 29500,
+    "id": "SKU_53",
+    "dailySellout": 2,
+    "proposedPO": 0
+  },
+  {
+    "stockDC": 240,
+    "stockCH": 14,
+    "id": "SKU_51",
+    "price": 22000,
+    "dailySellout": 3,
+    "proposedPO": 0,
+    "po": 0
+  },
+  {
+    "dailySellout": 6,
+    "po": 0,
+    "stockCH": 21,
+    "stockDC": 1320,
+    "id": "SKU_52",
+    "proposedPO": 0,
+    "price": 9300
+  },
+  {
+    "stockDC": 240,
+    "stockCH": 5,
+    "po": 0,
+    "dailySellout": 2,
+    "id": "SKU_37",
+    "proposedPO": 0,
+    "price": 24000
+  },
+  {
+    "proposedPO": 0,
+    "price": 12100,
+    "stockCH": 3,
+    "stockDC": 380,
+    "dailySellout": 2,
+    "id": "SKU_41",
+    "po": 8
+  },
+  {
+    "price": 26500,
+    "stockCH": 6,
+    "stockDC": 150,
+    "proposedPO": 0,
+    "po": 0,
+    "dailySellout": 3,
+    "id": "SKU_54"
+  },
+  {
+    "stockDC": 0,
+    "stockCH": 2,
+    "po": 0,
+    "price": 36000,
+    "id": "SKU_49",
+    "dailySellout": 1,
+    "proposedPO": 0
+  },
+  {
+    "dailySellout": 3,
+    "id": "SKU_31",
+    "stockCH": 12,
+    "stockDC": 320,
+    "proposedPO": 0,
+    "po": 0,
+    "price": 8800
+  },
+  {
+    "proposedPO": 0,
+    "dailySellout": 4,
+    "id": "SKU_32",
+    "price": 8800,
+    "po": 0,
+    "stockCH": 9,
+    "stockDC": 206
+  },
+  {
+    "stockDC": 268,
+    "stockCH": 9,
+    "po": 0,
+    "dailySellout": 2,
+    "price": 12000,
+    "id": "SKU_34",
+    "proposedPO": 0
+  },
+  {
+    "id": "SKU_35",
+    "price": 12000,
+    "po": 0,
+    "proposedPO": 0,
+    "stockCH": 13,
+    "stockDC": 268,
+    "dailySellout": 3
+  },
+  {
+    "po": 0,
+    "stockDC": 140,
+    "stockCH": 14,
+    "price": 12000,
+    "proposedPO": 0,
+    "dailySellout": 3,
+    "id": "SKU_42"
+  },
+  {
+    "dailySellout": 2,
+    "id": "SKU_40",
+    "price": 69000,
+    "po": 0,
+    "stockDC": 247,
+    "stockCH": 6,
+    "proposedPO": 0
+  }
+]
